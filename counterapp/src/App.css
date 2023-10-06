@@ -1,0 +1,33 @@
+
+.counter{
+  border: 1px solid #ff0000bb;
+  background-color: #ff0000bb;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 180px auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  gap: 25px;
+}
+
+.x{
+  font-weight: bolder;
+  font-size: 50px;
+  margin-top: 100px;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 10px;
+  gap: 20px;
+}
+
+.btn button {
+  padding: 20px;
+}
+
